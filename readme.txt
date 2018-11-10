@@ -1,2 +1,2 @@
-Git is a very good distribute tool
-and it is very good for us to learn
+This is my second try to commit something
+and it is a beautiful try
